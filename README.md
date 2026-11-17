@@ -1,6 +1,4 @@
-# CERO Escalada — Premium V8
-
-Web responsive actualizada a partir de V7.
+# CERO Escalada 
 
 ## Cambios
 - Las cuatro fotografías de clases son las seleccionadas en la conversación: panorámica para Principiantes, hombre con arnés para Adultos, dos personas en el muro para Entrenamiento y niño con pantalón verde para Infantil.
